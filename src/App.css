@@ -6,3 +6,12 @@
   justify-content: center;
   align-items: center;
 }
+
+.TranshCanLogo {
+  width: 50vw;
+  height: 50vw;
+}
+
+.TranshCanLogo > img {
+  width: 100%;
+}
