@@ -1,6 +1,6 @@
 import './App.css';
 
-import trashCan from 'asset/image/testImage.png';
+import trashCan from 'asset/image/testImage.jpg';
 
 function App() {
   return (
