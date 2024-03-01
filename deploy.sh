@@ -18,4 +18,8 @@ cd "$target_dir" || exit
 
 git add .
 git commit -m "$commit_message"
-gi tpush origin main
+git push origin main
+
+npm run build
+
+gh-pages -d build
